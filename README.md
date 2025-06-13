@@ -47,6 +47,10 @@ Generation: 0    String: 3eZt...    Fitness: 13
 Generation: 87   String: Hello, World!   Fitness: 0
 ```
 
+## Author
+
+Created by [Your Name Here].
+
 ## License
 
-This project is for
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
