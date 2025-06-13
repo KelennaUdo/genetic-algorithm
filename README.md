@@ -49,7 +49,7 @@ Generation: 87   String: Hello, World!   Fitness: 0
 
 ## Author
 
-Created by [Your Name Here].
+Created by Kelenna Udo.
 
 ## License
 
